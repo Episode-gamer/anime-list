@@ -91,10 +91,10 @@ body {
 
 @media (max-width: 900px) {
     .leftside, .rightside {
-        width: 10%;
+        display: none;
     }
     .centre {
-        width: 80%;
+        width: 100%;
     }
     .anime {
         width: calc(33.33% - 10px);
