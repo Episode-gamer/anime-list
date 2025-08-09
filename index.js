@@ -1,1 +1,1 @@
-let x = "reza"
+console.log("hi")
